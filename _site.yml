@@ -1,6 +1,6 @@
-name: "Matt Learns R"
+name: "International Health Business"
 navbar:
-  title: "Matt Learns R"
+  title: "International Health and Medical Business"
   left:
     - text: "Home"
       href: index.html
