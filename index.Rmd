@@ -18,9 +18,15 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Matt Learns R**
+# **Make Health Care Work Better For America**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Acting together as a community and society, the **Brazilian America Business Council - BABC,** takes our responsibility to ensure that each person in the U.S. can exercise the right to have a highly modern and quality health care. 
+
+We understand the U.S. Health system is facing hard challenges at this moment. High costs, limited resources, shortages of providers and other issues. 
+
+Focusing to provide practical and realistic solutions to this scenario, the BABC create the **International Health Business and Medical Management** department.
+
+**Our mission** is to promote the **exchange of business and healthcare solutions**, such as medical equipment, software and applications, courses and trainings, **between Brazil and the U.S.**
 
 ## How to use
 
