@@ -1,5 +1,6 @@
 ---
-title: "Matt Learns R"
+title: "International Health Business and Medical Management"
+author: "Brazilian America Business Council" 
 output: html_document
 ---
 
